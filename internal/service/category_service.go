@@ -2,8 +2,8 @@ package service
 
 import (
 	"context"
-	"github.com/MElghrbawy/print/internal/models"
-	"github.com/MElghrbawy/print/internal/repository"
+	"github.com/MElghrbawy/threads/internal/models"
+	"github.com/MElghrbawy/threads/internal/repository"
 )
 
 type CategoryService struct {

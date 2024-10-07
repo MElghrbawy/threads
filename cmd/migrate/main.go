@@ -4,7 +4,7 @@ import (
 	"context"
 	"database/sql"
 	"fmt"
-	"github.com/MElghrbawy/print/config"
+	"github.com/MElghrbawy/threads/config"
 	_ "github.com/lib/pq"
 	"github.com/pressly/goose/v3"
 	"log"

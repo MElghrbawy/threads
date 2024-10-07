@@ -2,9 +2,9 @@ package api
 
 import (
 	"database/sql"
-	"github.com/MElghrbawy/print/internal/api/handler"
-	"github.com/MElghrbawy/print/internal/repository"
-	"github.com/MElghrbawy/print/internal/service"
+	"github.com/MElghrbawy/threads/internal/api/handler"
+	"github.com/MElghrbawy/threads/internal/repository"
+	"github.com/MElghrbawy/threads/internal/service"
 	"github.com/gofiber/fiber/v2"
 )
 

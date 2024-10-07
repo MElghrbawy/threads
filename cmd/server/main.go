@@ -2,11 +2,11 @@ package main
 
 import (
 	"database/sql"
-	"github.com/MElghrbawy/print/config"
+	"github.com/MElghrbawy/threads/config"
 	"log"
 
-	"github.com/MElghrbawy/print/internal/api"
-	"github.com/MElghrbawy/print/pkg/database"
+	"github.com/MElghrbawy/threads/internal/api"
+	"github.com/MElghrbawy/threads/pkg/database"
 	"github.com/gofiber/fiber/v2"
 )
 

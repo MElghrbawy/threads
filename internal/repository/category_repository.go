@@ -3,8 +3,8 @@ package repository
 import (
 	"context"
 	"database/sql"
-	"github.com/MElghrbawy/print/internal/db/sqlc"
-	"github.com/MElghrbawy/print/internal/models"
+	"github.com/MElghrbawy/threads/internal/db/sqlc"
+	"github.com/MElghrbawy/threads/internal/models"
 )
 
 type CategoryRepository struct {

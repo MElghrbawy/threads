@@ -2,8 +2,8 @@ package handler
 
 import (
 	"context"
-	"github.com/MElghrbawy/print/internal/models"
-	"github.com/MElghrbawy/print/internal/service"
+	"github.com/MElghrbawy/threads/internal/models"
+	"github.com/MElghrbawy/threads/internal/service"
 	"net/http"
 	"strconv"
 
